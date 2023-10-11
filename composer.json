@@ -1,5 +1,5 @@
 {
-    "name": "cerbos/cerbos-sdk-laravel",
+    "name": "s360-eschmiedel/cerbos-sdk-laravel",
     "description": "Cerbos PHP Laravel SDK for interacting with the Cerbos PDP",
     "type": "library",
     "license": "Apache-2.0",
